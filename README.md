@@ -1,7 +1,6 @@
 # Atv_EDN
 
-#Atividade Prática 01
-Prática 01:
+Atividade Prática 01:
 
 1- Programa de Saudação
 * Crie um programa que imprima a mensagem "Olá, mundo!" na tela.
